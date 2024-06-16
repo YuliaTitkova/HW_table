@@ -1,0 +1,35 @@
+body {
+    padding: 25px;
+}
+
+table {
+    width: 600px;
+    margin: auto;
+    border: 5px solid #000;
+    border-collapse: collapse;
+}
+
+td, tr {
+    border: 5px solid #000;
+    width: 6.25%;
+}
+
+.rectangle-yellow {
+    background: yellow;
+}
+
+.square-red {
+    background: red;
+}
+
+.rectangle-black {
+    background: black;
+}
+
+.rectangle-blue {
+    background: deepskyblue;
+}
+
+.rectangle-red {
+    background: red;
+}
